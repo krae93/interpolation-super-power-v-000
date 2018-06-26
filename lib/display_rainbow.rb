@@ -9,11 +9,11 @@ def display_rainbow(colors)
 end
 
 def colors
-  colors[0] = "red"
-  colors[1] = "orange"
-  colors[2] = "yellow"
-  colors[3] = "green"
-  colors[4] = "blue"
-  colors[5] = "indigo"
-  colors[6] = "violet"
+  colors[0] = "R: red"
+  colors[1] = "O: orange"
+  colors[2] = "Y: yellow"
+  colors[3] = "G: green"
+  colors[4] = "B: blue"
+  colors[5] = "I: indigo"
+  colors[6] = "V: violet"
 end
