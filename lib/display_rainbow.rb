@@ -1,5 +1,4 @@
-def display_rainbow(colors)
-  display_rainbow.prints.out.the.colors.of.the.rainbow.correctly.when.passed.in.order = ("R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n")
+def display_rainbow(colors) = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
   puts "colors: #{colors[0]}"
 end
 
