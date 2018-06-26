@@ -1,4 +1,4 @@
-def display_rainbow(colors)
+def display_rainbow(colors) = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n"
   puts "colors: #{colors[0]}"
   puts "colors: #{colors[1]}"
   puts "colors: #{colors[2]}"
@@ -6,7 +6,7 @@ def display_rainbow(colors)
   puts "colors: #{colors[4]}"
   puts "colors: #{colors[5]}"
   puts "colors: #{colors[6]}"
-  puts $display_rainbow(colors) = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n"
+  puts display_rainbow(colors) = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n"
 end
 
 def colors
