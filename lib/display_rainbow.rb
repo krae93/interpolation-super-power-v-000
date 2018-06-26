@@ -1,6 +1,11 @@
 def display_rainbow(colors)
   puts "colors: #{colors[0]}"
   puts "colors: #{colors[1]}"
+  puts "colors: #{colors[2]}"
+  puts "colors: #{colors[3]}"
+  puts "colors: #{colors[4]}"
+  puts "colors: #{colors[5]}"
+  puts "colors: #{colors[6]}"
 end
 
 def colors
