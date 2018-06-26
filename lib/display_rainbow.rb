@@ -17,3 +17,5 @@ def colors
   colors[5] = "indigo"
   colors[6] = "violet"
 end
+
+colors = ["R: red", "O: orange", "Y: yellow", "G: green", "B: blue", "I: indigo", "V: violet"]
