@@ -6,7 +6,7 @@ def display_rainbow(colors)
   puts "colors: #{colors[4]}"
   puts "colors: #{colors[5]}"
   puts "colors: #{colors[6]}"
-  display_rainbow = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n"
+  display_rainbow.order = "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet\n"
 end
 
 def colors
